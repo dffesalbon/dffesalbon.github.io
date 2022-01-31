@@ -1,3 +1,5 @@
+import "./AppFooter.css";
+
 const AppFooter = () => {
   return (
     <>

@@ -3,7 +3,7 @@ import Content from "./components/content/Content";
 import AppFooter from "./components/footer/AppFooter";
 import AppHeader from "./components/header/AppHeader";
 
-function App() {
+const App = () => {
   return (
     <div className="App">
       <AppHeader />
@@ -11,6 +11,6 @@ function App() {
       <AppFooter />
     </div>
   );
-}
+};
 
 export default App;
