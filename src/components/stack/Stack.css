@@ -1,0 +1,43 @@
+.stack {
+  background-color: rgb(245, 245, 245);
+  margin: auto;
+  width: 100%;
+  text-align: left;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 7px;
+  margin-bottom: 0px;
+  border-width: 2px 3px;
+  border-style: solid;
+  border-color: white;
+}
+
+.container {
+  background-color: white;
+  margin: auto;
+  width: 600px;
+  height: 70vh;
+  overflow-y: auto;
+  overflow-x: hidden;
+  padding-right: 4%;
+  margin-top: 20px;
+}
+
+/* width */
+.container::-webkit-scrollbar {
+  width: 3px;
+}
+
+/* Track */
+.container::-webkit-scrollbar-track {
+}
+
+/* Handle */
+.container::-webkit-scrollbar-thumb {
+  background: rgb(163, 163, 163);
+}
+
+/* Handle on hover */
+.container::-webkit-scrollbar-thumb:hover {
+  background: grey;
+}
