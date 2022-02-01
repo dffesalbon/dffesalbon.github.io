@@ -1,0 +1,20 @@
+.main-page {
+  width: 100vw;
+  height: 100vh;
+  background-color: rgb(206, 206, 206);
+  overflow-x: hidden;
+}
+
+.main-menu {
+  width: min-content;
+  margin: 35vh auto;
+}
+
+.menu-item {
+  background-color: black;
+  padding: 10px;
+  border-radius: 10px;
+  color: white;
+  margin: 10px 0px;
+  width: 20vw;
+}
