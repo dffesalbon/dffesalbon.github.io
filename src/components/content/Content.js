@@ -8,8 +8,8 @@ const Content = () => {
     <>
       <div className="app-content">
         <Card />
-        <Card />
         <Stack />
+        <Card />
         <Contact />
       </div>
     </>
