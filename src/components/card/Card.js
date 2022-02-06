@@ -1,20 +1,19 @@
 import "./Card.css";
+import Item from "./Item";
 
-const Card = () => {
+const Card = (props) => {
+  const { content } = props;
+  let list = content.list;
+
   return (
     <>
       <div className="card">
-        <section className="title">Title</section>
-        <section>additional description</section>
+        <section className="title">{content.title}</section>
+        <section>{content.description}</section>
         <dl>
-          <dt>List one</dt>
-          <dd>additional descrption</dd>
-          <dd>- item one</dd>
-          <dd>- item two</dd>
-          <dt>List two</dt>
-          <dd>additional descrption</dd>
-          <dd>- item one</dd>
-          <dd>- item two</dd>
+          {list.map((o, i) => (
+            <Item key={i} properties={o} />
+          ))}
         </dl>
       </div>
     </>
