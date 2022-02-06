@@ -3,11 +3,11 @@ import "./Card.css";
 const Item = (props) => {
   const { properties } = props;
 
-  let { name } = properties != undefined ? properties : {};
-  name = name != undefined ? name : "";
+  let { name } = properties !== undefined ? properties : {};
+  name = name !== undefined ? name : "";
 
-  let { sub } = properties != undefined ? properties : {};
-  sub = sub != undefined ? sub : [];
+  let { sub } = properties !== undefined ? properties : {};
+  sub = sub !== undefined ? sub : [];
 
   return (
     <div className="item">
