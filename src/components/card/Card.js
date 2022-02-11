@@ -8,13 +8,23 @@ const Card = (props) => {
   return (
     <>
       <div className="card">
-        <section className="title">{content.title}</section>
+        {/*<section className="title">{content.title}</section>
         <section>{content.description}</section>
         <dl>
           {list.map((o, i) => (
             <Item key={i} properties={o} />
           ))}
-        </dl>
+          </dl>*/}
+        <div className="row">
+          <div className="column">
+            <h2>{content.title}</h2>
+            <p></p>
+          </div>
+          <div className="column">
+            {/*<h2>Column 2</h2>*/}
+            <p className="paragraph"> {content.description}</p>
+          </div>
+        </div>
       </div>
     </>
   );

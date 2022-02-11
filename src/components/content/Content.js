@@ -6,43 +6,29 @@ import "./Content.css";
 const Content = () => {
   const work = {
     title: "Field Background",
-    description: "Short review of past experience.",
-    list: [
-      {
-        name: "Bootcamp Trainee",
-        sub: ["- Two months bootcamp training. Java and Oracle."],
-      },
-      {
-        name: "Java Developer",
-        sub: ["- Entry level java developer. One year of experience."],
-      },
-      {
-        name: "IT Helpdesk Intern",
-        sub: ["- Three months as IT helpdesk intern in a consulting firm."],
-      },
-    ],
+    description:
+      "I am currently working as a software engineer in a Financial Firm." +
+      " With exposure to different technologies and bank applications, I" +
+      " work within a squad that provides support and improvements on" +
+      " different business applications. This includes coordinating with" +
+      " colleagues in North American region, working full-stack across the" +
+      " entire software development lifecycle, and participates in agile" +
+      " sprints and ceremonies. I also have a previous part-time" +
+      " experience as a Java Developer during college days, an IT helpdesk" +
+      " internship in a business consulting firm, and an Oracle bootcamp" +
+      " training experience.",
   };
 
   const education = {
     title: "Education",
     description: "Academic background.",
-    list: [
-      {
-        name: "Master of Science in Computer Engineering",
-        sub: ["Polytechnic Univesity of the Philippines", "2021 - Present"],
-      },
-      {
-        name: "Bachelor of Science in Computer Engineering",
-        sub: ["Rizal Technological University", "2014 - 2020"],
-      },
-    ],
   };
 
   return (
     <>
       <div className="app-content">
         <Card content={work} />
-        <Stack />
+        {/*<Stack />*/}
         <Card content={education} />
         <Contact />
       </div>
