@@ -3,12 +3,14 @@ import { IoSchoolOutline } from "react-icons/io5";
 import { CgWorkAlt } from "react-icons/cg";
 import { RiStackLine } from "react-icons/ri";
 import { MdContactPage } from "react-icons/md";
+import Profile from "../profile/Profile";
 
 const Main = () => {
   return (
     <>
       <div className="main-page">
-        <div className="main-menu">
+        <Profile />
+        {/*<div className="main-menu">
           <div className="menu-item">
             <CgWorkAlt /> Background
           </div>
@@ -21,7 +23,7 @@ const Main = () => {
           <div className="menu-item">
             <MdContactPage /> Contacts
           </div>
-        </div>
+        </div>*/}
       </div>
     </>
   );
