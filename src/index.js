@@ -3,9 +3,18 @@ import ReactDOM from "react-dom";
 import "./index.css";
 import App from "./App";
 import reportWebVitals from "./reportWebVitals";
+import { TinyButton as ScrollUpButton } from "react-scroll-up-button";
 
 ReactDOM.render(
   <React.StrictMode>
+    <ScrollUpButton
+      ContainerClassName="ScrollUpButton__Container"
+      TransitionClassName="ScrollUpButton__Toggled"
+      style={{
+        borderRadius: "50%",
+        backgroundColor: "white",
+      }}
+    ></ScrollUpButton>
     <App />
   </React.StrictMode>,
   document.getElementById("root")
