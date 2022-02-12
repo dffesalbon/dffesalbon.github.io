@@ -16,8 +16,8 @@ const Card = (props) => {
           ))}
           </dl>*/}
         <div className="row">
-          <div className="column">
-            <h2>{content.title}</h2>
+          <div className="column ">
+            <p className="title tile-column">{content.title}</p>
             <p></p>
           </div>
           <div className="column">
