@@ -1,0 +1,35 @@
+.profile-pic {
+  width: 240px;
+  height: 240px;
+  background-color: greenyellow;
+  border-radius: 50%;
+  border-style: solid;
+  border-width: 3px;
+  border-color: whitesmoke;
+  margin: auto;
+  margin-top: 15vh;
+  background-image: url("https://avatars.githubusercontent.com/u/86942695?v=4");
+  background-size: contain;
+  background-size: cover;
+  background-size: 100%;
+}
+
+.profile-info {
+  width: 300px;
+  height: 100px;
+  margin: auto;
+  margin-top: 25px;
+  color: whitesmoke;
+}
+
+.info-prompt {
+  width: 300px;
+  margin: auto;
+  margin-top: 25px;
+  background-color: rgb(97, 97, 97);
+  border-radius: 5px;
+  font-size: 12px;
+  font-weight: bolder;
+  padding: 15px 0px;
+  color: whitesmoke;
+}
