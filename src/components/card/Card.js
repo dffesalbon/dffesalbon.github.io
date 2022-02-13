@@ -17,12 +17,12 @@ const Card = (props) => {
           </dl>*/}
         <div className="row">
           <div className="column ">
-            <p className="title tile-column">{content.title}</p>
+            <p className="title tile-column unselectable">{content.title}</p>
             <p></p>
           </div>
           <div className="column">
             {/*<h2>Column 2</h2>*/}
-            <p className="paragraph"> {content.description}</p>
+            <p className="paragraph unselectable"> {content.description}</p>
           </div>
         </div>
       </div>

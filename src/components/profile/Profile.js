@@ -8,11 +8,11 @@ const Profile = () => {
   return (
     <>
       <div className="profile-pic"></div>
-      <div className="profile-info">
+      <div className="profile-info unselectable">
         <section>Hello world, I am Daniel Fesalbon</section>
         <section>and I am working as a software engineer :)</section>
       </div>
-      <div className="info-prompt">
+      <div className="info-prompt unselectable">
         check out some information about me below
       </div>
     </>
