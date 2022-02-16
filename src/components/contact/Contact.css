@@ -1,3 +1,22 @@
 .links {
   font-size: 12px;
 }
+
+.contact {
+  height: 40px;
+  border-radius: 5px;
+  background-color: black;
+  margin: 8px 0px;
+}
+
+.contact-icon {
+  font-size: 20px;
+  margin: auto;
+  text-align: center;
+  height: 100%;
+  padding-top: 10px;
+}
+
+.contact-icon a {
+  color: white;
+}
