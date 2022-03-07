@@ -17,19 +17,21 @@ const Content = () => {
       " experience as a Java Developer during college days, an IT helpdesk" +
       " internship in a business consulting company, and a coding" +
       " bootcamp experience at Oracle.",
+    no: 1,
   };
 
   const education = {
     title: "Education",
     description:
-      "I am currently pursuing a master's degree in computer engineering." +
+      "Currently pursuing a master's degree in computer engineering." +
       " A research based program that specializes in data science & engineering." +
       " Studies include topics such as Intelligent systems, Artificial Intelligence," +
       " Machine Learning, Deep Learning, Data science & engineering, and Internet of" +
-      " Things(IoT). I hold a bachelor's degree of the same program with relevant" +
+      " Things(IoT). Holding a bachelor's degree of the same program (BSCpE) with relevant" +
       " courses such as Programming fundamentals, Object-oriented programming," +
       " Logic circuits and switching theory, Operating systems , Database management," +
       " Data structure and algorithms, Software engineering, Computer networks, and some maths.",
+    no: 3,
   };
 
   const skills = {
@@ -44,6 +46,7 @@ const Content = () => {
       " and troubleshooting skills. Ability to work independently and/or as a team." +
       " Training, hands-on experience, and/or understanding with other techonologies" +
       " such as Jenkins, GraphQL, CICD pipelines, Docker, Cloud technologies, and more.",
+    no: 2,
   };
 
   return (

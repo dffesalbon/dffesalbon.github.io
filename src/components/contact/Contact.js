@@ -2,6 +2,8 @@ import "./Contact.css";
 import { GoMarkGithub } from "react-icons/go";
 import { MdEmail } from "react-icons/md";
 import { AiFillLinkedin } from "react-icons/ai";
+import { SiKaggle } from "react-icons/si";
+import Pager from "../pager/Pager";
 const Contact = () => {
   return (
     <>
@@ -35,6 +37,13 @@ const Contact = () => {
                 </a>
               </div>
             </div>
+            <div className="contact">
+              <div className="contact-icon">
+                <a href="https://www.kaggle.com/danielfesalbon">
+                  <SiKaggle />
+                </a>
+              </div>
+            </div>
             {/*<p className="paragraph unselectable">
               You can reach me out with the following:
             </p>
@@ -55,6 +64,7 @@ const Contact = () => {
             </p>*/}
           </div>
         </div>
+        <Pager no={4} />
       </div>
     </>
   );

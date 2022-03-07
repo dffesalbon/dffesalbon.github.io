@@ -1,3 +1,4 @@
+import Pager from "../pager/Pager";
 import "./Card.css";
 import Item from "./Item";
 
@@ -25,6 +26,7 @@ const Card = (props) => {
             <p className="paragraph unselectable"> {content.description}</p>
           </div>
         </div>
+        <Pager no={content.no} />
       </div>
     </>
   );
