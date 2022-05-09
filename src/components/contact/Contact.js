@@ -10,7 +10,7 @@ const Contact = () => {
       <div className="card">
         <div className="row">
           <div className="column ">
-            <p className="title tile-column unselectable">Contacts</p>
+            <p className="title tile-column unselectable">Links</p>
             <p></p>
           </div>
           <div className="column">
@@ -44,27 +44,9 @@ const Contact = () => {
                 </a>
               </div>
             </div>
-            {/*<p className="paragraph unselectable">
-              You can reach me out with the following:
-            </p>
-            <p className="paragraph unselectable">
-              Github: <a href="https://github.com/dffesalbon">dffesalbon</a>
-            </p>
-            <p className="paragraph unselectable">
-              Email:
-              <a href="mailto:fesalbondaniel@gmail.com">
-                fesalbondaniel@gmail.com
-              </a>
-            </p>
-            <p className="paragraph unselectable">
-              Linkedin:{" "}
-              <a href="https://www.linkedin.com/in/daniel-fesalbon-a416261ba/">
-                Daniel Fesalbon
-              </a>
-            </p>*/}
           </div>
         </div>
-        <Pager no={4} />
+        <Pager no={1} />
       </div>
     </>
   );

@@ -12,9 +12,7 @@ const Profile = () => {
         <section>Hello world, I am Daniel Fesalbon</section>
         <section>and I am working as a software engineer :)</section>
       </div>
-      <div className="info-prompt unselectable">
-        check out some information about me below
-      </div>
+      <div className="info-prompt unselectable">check my links below</div>
     </>
   );
 };
