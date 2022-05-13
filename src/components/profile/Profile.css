@@ -7,7 +7,7 @@
   border-width: 3px;
   border-color: whitesmoke;
   margin: auto;
-  margin-top: 15vh;
+  margin-top: 10vh;
   background-image: url("https://avatars.githubusercontent.com/u/86942695?v=4");
   background-size: contain;
   background-size: cover;
@@ -25,9 +25,9 @@
 .info-prompt {
   width: 300px;
   margin: auto;
-  margin-top: 25px;
+  margin-top: 8px;
   background-color: rgb(97, 97, 97);
-  border-radius: 5px;
+  border-radius: 20px;
   font-size: 12px;
   font-weight: bolder;
   padding: 15px 0px;
