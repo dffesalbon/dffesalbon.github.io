@@ -1,8 +1,4 @@
 import "./Profile.css";
-import { IoSchoolOutline } from "react-icons/io5";
-import { CgWorkAlt } from "react-icons/cg";
-import { RiStackLine } from "react-icons/ri";
-import { MdContactPage } from "react-icons/md";
 import { GoMarkGithub } from "react-icons/go";
 import { MdEmail } from "react-icons/md";
 import { AiFillLinkedin } from "react-icons/ai";

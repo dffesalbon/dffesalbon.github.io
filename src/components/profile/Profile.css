@@ -5,7 +5,7 @@
   border-radius: 50%;
   border-style: solid;
   border-width: 3px;
-  border-color: whitesmoke;
+  border-color: rgb(221, 221, 221);
   margin: auto;
   margin-top: 10vh;
   background-image: url("https://avatars.githubusercontent.com/u/86942695?v=4");
@@ -19,17 +19,17 @@
   height: 100px;
   margin: auto;
   margin-top: 25px;
-  color: whitesmoke;
+  color: black;
 }
 
 .info-prompt {
   width: 300px;
   margin: auto;
   margin-top: 8px;
-  background-color: rgb(97, 97, 97);
+  background-color: rgb(214, 214, 214);
   border-radius: 20px;
   font-size: 12px;
   font-weight: bolder;
-  padding: 15px 0px;
-  color: whitesmoke;
+  padding: 10px 0px;
+  color: black;
 }

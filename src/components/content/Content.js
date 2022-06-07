@@ -1,6 +1,4 @@
-import Card from "../card/Card";
 import Contact from "../contact/Contact";
-import Stack from "../stack/Stack";
 import "./Content.css";
 
 const Content = () => {

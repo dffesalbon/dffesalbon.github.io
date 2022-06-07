@@ -3,7 +3,7 @@ body {
   font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: rgb(121, 121, 121);
+  background-color: rgb(255, 255, 255);
   width: 100vw;
   overflow-x: hidden;
 }
