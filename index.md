@@ -1,5 +1,5 @@
 ---
-title: About Alembic
+title: Daniel Fesalbon
 feature_text: |
   ## Alembic
   A Jekyll boilerplate theme designed to be a starting point for any Jekyll website
@@ -9,11 +9,14 @@ excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projec
 
 Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get rolling immediately. Install it, configure it, tweak it, push it.
 
-{% include button.html text="Fork it" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} {% include button.html text="Buy me a coffee ☕️" link="https://buymeacoffee.com/daviddarnes#support" color="#f68140" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %}
+{% include button.html text="GitHub" icon="github" link="https://github.com/dffesalbon" color="#0366d6" %}
+{% include button.html text="Twitter" icon="twitter" link="https://twitter.com/kellinqnnn" color="#0d94e7" %}
 
-## Features
+## Works
 
-- Available as a **theme gem** and **GitHub Pages** theme
+- [**Fine-Tuning Pre-trained Language Models to Detect In-Game Trash Talks**]
+
+
 - Clear and elegant design that can be used out of the box or as solid starting point
 - Tested in all major browsers, including **IE and Edge**
 - Built in **Service Worker** so it can work offline and on slow connections
