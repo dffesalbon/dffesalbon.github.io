@@ -14,8 +14,7 @@ Reason that this area on the internet exists is because an IT Engineer got bored
 ## Works
 
 - [**Fine-Tuning Pre-trained Language Models to Detect In-Game Trash Talks**](https://doi.org/10.48550/arXiv.2403.15458)
-  - <small>Fesalbon, D., De La Cruz, A., Mallari, M., & Rodelas, N. (2024). Fine-Tuning Pre-trained Language Models to Detect In-Game Trash Talks. arXiv preprint arXiv:2403.15458.</small> 
-
+<!--
 - Clear and elegant design that can be used out of the box or as solid starting point
 - Tested in all major browsers, including **IE and Edge**
 - Built in **Service Worker** so it can work offline and on slow connections
@@ -91,4 +90,4 @@ When using Alembic as a theme means you can take advantage of the file overridin
 
 To add your own styles copy the [`styles.scss`](https://github.com/daviddarnes/alembic/blob/master/assets/styles.scss) into your own project with the same file path (`assets/styles.scss`). From there you can add your own styles, you can even optionally ignore the theme styles by removing the `@import "alembic";` line.
 
-If you're looking to set your own colours and fonts you can overwrite them by matching the variable names from the [`_settings.scss`](https://github.com/daviddarnes/alembic/blob/master/_sass/_settings.scss) file in your own `styles.scss`, make sure to state them before the `@import "alembic";` line so they take effect. The settings are a mixture of custom variables and settings from [Sassline](https://medium.com/@jakegiltsoff/sassline-v2-0-e424b2881e7e) - follow the link to find out how to configure the typographic settings.
+If you're looking to set your own colours and fonts you can overwrite them by matching the variable names from the [`_settings.scss`](https://github.com/daviddarnes/alembic/blob/master/_sass/_settings.scss) file in your own `styles.scss`, make sure to state them before the `@import "alembic";` line so they take effect. The settings are a mixture of custom variables and settings from [Sassline](https://medium.com/@jakegiltsoff/sassline-v2-0-e424b2881e7e) - follow the link to find out how to configure the typographic settings.-->
