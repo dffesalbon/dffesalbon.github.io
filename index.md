@@ -14,6 +14,7 @@ I am available on the following sites/platforms:
 {% include button.html text="GitHub" icon="github" link="https://github.com/dffesalbon" color="#24292e" %} {% include button.html text="Twitter" icon="twitter" link="https://twitter.com/kellinqnnn" color="#0d94e7" %} {% include button.html text="HuggingFace" link="https://huggingface.co/dffesalbon" color="#FFD21E" %}
 
 
+<!--
 ### Few details about me
 
 - Software Engineering and Data Engineering practitioner
@@ -32,7 +33,7 @@ I am available on the following sites/platforms:
 - Source/Code Control: Git, GitHub, GitLab, Bitbucket
 - Cloud Platforms: Microsoft Azure, Amazon Web Services (AWS)
 - Others: Docker, Jenkins, CI/CD Pipelines, DevOps, REST APIs, etc.
-
+-->
 <!--
 ## Works
 
