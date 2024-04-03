@@ -28,7 +28,6 @@ Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather
 - Built in live search using JavaScript
 - **Contact form** built in using [Formspree](https://formspree.io/)
 - Designed with **[Siteleaf](https://www.siteleaf.com/)** in mind
-- Has 9 of the most popular networks as performant sharing buttons
 - Has documentation
 
 ## Examples
