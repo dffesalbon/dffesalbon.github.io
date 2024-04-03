@@ -66,7 +66,7 @@ collections:
     description: "My works and internet activities" # The post list page content
     feature_text: |
       Works and Outputs
-    feature_image: "https://raw.githubusercontent.com/dffesalbon/dffesalbon.github.io/main/assets/works-bg.jpeg"
+    feature_image: "https://raw.githubusercontent.com/dffesalbon/dffesalbon.github.io/main/assets/works-bg.jpg"
 
 # 6. Jekyll collections settings
 defaults:
