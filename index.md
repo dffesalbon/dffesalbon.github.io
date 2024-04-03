@@ -14,8 +14,8 @@ Reason that this area on the internet exists is because an IT Engineer got bored
 ## Works
 
 - [**Fine-Tuning Pre-trained Language Models to Detect In-Game Trash Talks**](https://doi.org/10.48550/arXiv.2403.15458)
-<!--
-- Clear and elegant design that can be used out of the box or as solid starting point
+
+<!-- - Clear and elegant design that can be used out of the box or as solid starting point
 - Tested in all major browsers, including **IE and Edge**
 - Built in **Service Worker** so it can work offline and on slow connections
 - **Configurable colours** and typography in a single settings file
