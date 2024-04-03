@@ -56,7 +56,7 @@ sass:
   style: compressed # Style compression
 permalink: pretty  # Permalink style (/YYYY/MM/DD/page-name/)
 excerpt_separator: <!-- more --> # Marks end of excerpt in posts
-timezone: Europe/London # Timezone for blog posts and alike
+timezone: Asia/Manila # Timezone for blog posts and alike
 
 # 5. Collections
 collections:
@@ -91,9 +91,9 @@ defaults:
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
-title: "Daniel Fesalbon" # Site name or title, also used in jekyll-seo-tag
+title: "dffesalbon" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
-description: "Alembic is a starting point for Jekyll projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately" # Site description and default description, also used in jekyll-seo-tag
+description: "Not your average IT Engineer" # Site description and default description, also used in jekyll-seo-tag
 url: "https://dffesalbon.github.io" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/dffesalbon/dffesalbon.github.io"
@@ -129,18 +129,16 @@ navigation_header:
   url: /categories/
 - title: Search
   url: /search/
-- title: Fork Alembic
-  url: https://github.com/daviddarnes/alembic
 
 navigation_footer:
-- title: Created by David Darnes
-  url: https://darn.es
+- title: Powered by Alembic
+  url: https://alembic.darn.es/
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
-  Twitter: https://twitter.com/DavidDarnes
-  LinkedIn: https://www.linkedin.com/in/daviddarnes
-  GitHub: https://github.com/daviddarnes
-  link: https://darn.es
+  Twitter: https://twitter.com/kellinqnnn
+  LinkedIn: https://www.linkedin.com/in/dffesalbon
+  GitHub: https://github.com/dffesalbon
+  link: https://dffesalbon/github.io
   RSS: /feed.xml
 
 sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour
