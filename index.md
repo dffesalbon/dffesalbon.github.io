@@ -14,7 +14,7 @@ Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather
 ## Works
 
 - **Fine-Tuning Pre-trained Language Models to Detect In-Game Trash Talks**
-  Fesalbon, D., De La Cruz, A., Mallari, M., & Rodelas, N. (2024). Fine-Tuning Pre-trained Language Models to Detect In-Game Trash Talks. arXiv preprint arXiv:2403.15458.
+  > Fesalbon, D., De La Cruz, A., Mallari, M., & Rodelas, N. (2024). Fine-Tuning Pre-trained Language Models to Detect In-Game Trash Talks. arXiv preprint arXiv:2403.15458.
 
 - Clear and elegant design that can be used out of the box or as solid starting point
 - Tested in all major browsers, including **IE and Edge**
