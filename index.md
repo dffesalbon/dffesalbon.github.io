@@ -2,12 +2,12 @@
 title: Daniel Fesalbon
 feature_text: |
   ## Daniel Fesalbon
-  Reason that this area on the internet exists is because an IT Engineer (not your average) got bored at some point in his lifetime and search for something to work on.
+  Not your average IT Engineer
 feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
 ---
 
-I am available on the following sites/platforms:
+Reason that this area on the internet exists is because an IT Engineer got bored at some point in his lifetime and search for something to work on. I am available on the following sites/platforms:
 
 {% include button.html text="GitHub" icon="github" link="https://github.com/dffesalbon" color="#0366d6" %} {% include button.html text="Twitter" icon="twitter" link="https://twitter.com/kellinqnnn" color="#0d94e7" %}
 
