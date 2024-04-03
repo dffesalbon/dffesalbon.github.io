@@ -7,11 +7,31 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
 ---
 
-Reason that this area on the internet exists is because an IT Engineer got bored at some point in his lifetime and search for something to work on. 
+Reason that this area on the internet exists is because an IT Engineer got bored at some point in his lifetime and searched for something to work on. 
 
 I am available on the following sites/platforms:
 
 {% include button.html text="GitHub" icon="github" link="https://github.com/dffesalbon" color="#24292e" %} {% include button.html text="Twitter" icon="twitter" link="https://twitter.com/kellinqnnn" color="#0d94e7" %} {% include button.html text="HuggingFace" link="https://huggingface.co/dffesalbon" color="#FFD21E" %}
+
+
+### Few details about me
+
+- Software Engineering and Data Engineering practitioner
+- Software and Technology enthusiast
+- Writes code and develops systems and processes for a living
+- Translates ideas into a working information system
+- "Ikigai" and "Kaizen" thinking
+
+### Technologies I can work on
+
+- Programing Languages: Python, Java, JavaScript, TypeScript
+- Databases: MSSQL, MySQL, Oracle, PostreSQL, No-SQL (MongoDB, DynamoDB)
+- Data Engineering: Airflow, ETL, GLUE, EMR, PySpark, Athena, Azure DataFactory, etc.
+- Software Engineering: FAST API, Django, Spring Boot, Node.js, React.js, Angular, etc.
+- ML/AI Libraries/Frameworks (Python): Scikit-learn, Torch, Keras, Tensorflow, etc.
+- Source/Code Control: Git, GitHub, GitLab, Bitbucket
+- Cloud Platforms: Microsoft Azure, Amazon Web Services (AWS)
+- Others: Docker, Jenkins, CI/CD Pipelines, DevOps, REST APIs, etc.
 
 <!--
 ## Works
