@@ -7,15 +7,18 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
 ---
 
-Reason that this area on the internet exists is because an IT Engineer got bored at some point in his lifetime and search for something to work on. I am available on the following sites/platforms:
+Reason that this area on the internet exists is because an IT Engineer got bored at some point in his lifetime and search for something to work on. 
+
+I am available on the following sites/platforms:
 
 {% include button.html text="GitHub" icon="github" link="https://github.com/dffesalbon" color="#0366d6" %} {% include button.html text="Twitter" icon="twitter" link="https://twitter.com/kellinqnnn" color="#0d94e7" %}
 
+<!--
 ## Works
 
 - [**Fine-Tuning Pre-trained Language Models to Detect In-Game Trash Talks**](https://doi.org/10.48550/arXiv.2403.15458)
 
-<!-- - Clear and elegant design that can be used out of the box or as solid starting point
+- Clear and elegant design that can be used out of the box or as solid starting point
 - Tested in all major browsers, including **IE and Edge**
 - Built in **Service Worker** so it can work offline and on slow connections
 - **Configurable colours** and typography in a single settings file
