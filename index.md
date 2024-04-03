@@ -18,7 +18,7 @@ I am available on the following sites/platforms:
 
 - Software Engineering and Data Engineering practitioner
 - Software and Technology enthusiast
-- Writes code and develops systems and processes for a living
+- Writes code and develops systems/processes for a living
 - Translates ideas into a working information system
 - "Ikigai" and "Kaizen" thinking
 
