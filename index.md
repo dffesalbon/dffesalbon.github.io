@@ -11,7 +11,7 @@ Reason that this area on the internet exists is because an IT Engineer got bored
 
 I am available on the following sites/platforms:
 
-{% include button.html text="GitHub" icon="github" link="https://github.com/dffesalbon" color="#0366d6" %} {% include button.html text="Twitter" icon="twitter" link="https://twitter.com/kellinqnnn" color="#0d94e7" %}
+{% include button.html text="GitHub" icon="github" link="https://github.com/dffesalbon" color="#24292e" %} {% include button.html text="Twitter" icon="twitter" link="https://twitter.com/kellinqnnn" color="#0d94e7" %} {% include button.html text="HuggingFace" icon="huggingface" link="https://huggingface.co/dffesalbon" color="#0d94e7" %}
 
 <!--
 ## Works
