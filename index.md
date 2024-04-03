@@ -1,7 +1,7 @@
 ---
 title: Daniel Fesalbon
 feature_text: |
-  ## Alembic
+  ## Daniel Fesalbon
   A Jekyll boilerplate theme designed to be a starting point for any Jekyll website
 feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
@@ -9,13 +9,12 @@ excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projec
 
 Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get rolling immediately. Install it, configure it, tweak it, push it.
 
-{% include button.html text="GitHub" icon="github" link="https://github.com/dffesalbon" color="#0366d6" %}
-{% include button.html text="Twitter" icon="twitter" link="https://twitter.com/kellinqnnn" color="#0d94e7" %}
+{% include button.html text="GitHub" icon="github" link="https://github.com/dffesalbon" color="#0366d6" %} {% include button.html text="Twitter" icon="twitter" link="https://twitter.com/kellinqnnn" color="#0d94e7" %}
 
 ## Works
 
-- [**Fine-Tuning Pre-trained Language Models to Detect In-Game Trash Talks**]
-
+- **Fine-Tuning Pre-trained Language Models to Detect In-Game Trash Talks**
+  Fesalbon, D., De La Cruz, A., Mallari, M., & Rodelas, N. (2024). Fine-Tuning Pre-trained Language Models to Detect In-Game Trash Talks. arXiv preprint arXiv:2403.15458.
 
 - Clear and elegant design that can be used out of the box or as solid starting point
 - Tested in all major browsers, including **IE and Edge**
