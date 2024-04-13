@@ -3,7 +3,7 @@ title: Daniel Fesalbon
 feature_text: |
   ## dffesalbon
   Not your average IT Engineer
-feature_image: "https://raw.githubusercontent.com/dffesalbon/dffesalbon.github.io/main/assets/main-bg.jpg"
+feature_image: "https://raw.githubusercontent.com/dffesalbon/dffesalbon.github.io/main/assets/home-bg.jpg"
 excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
 ---
 
